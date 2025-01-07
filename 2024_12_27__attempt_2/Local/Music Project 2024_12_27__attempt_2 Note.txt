@@ -1,0 +1,14 @@
+Music Project 2024_12_27__attempt_2 Notes
+
+---------------------------------
+2025-01-07
+
+-Extracted features from AC, TMOE, The Strokes, and Pogo
+- RF and KNN to see accuracy (no hypertuning)
+ - RF did well
+- Plotted using UMAP
+
+Further development:
+- It would be interesting to throw some very disparate data in here (country?) to see where it falls.
+ - that could help tell if having large amounts of data in here, we could still lasso together the stuff we like (find the affinity)
+ - so far, we like all of these songs, so throw some in here we don't like, then build a clf on that?
