@@ -9,6 +9,8 @@ Music Project 2024_12_27__attempt_2 Notes
  - results were pretty good. see the notebook (Analysis\2025_01_08__local_vs_country.ipynb) for more details
  - might have something here
 
+- Maybe a long shot, but what if we had a playlist of all of our likes, and started building one on all of our dislikes, then trained on that, inferred on new music?
+
 ---------------------------------
 2025-01-07
 
