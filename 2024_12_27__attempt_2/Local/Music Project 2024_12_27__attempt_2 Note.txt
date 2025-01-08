@@ -5,7 +5,9 @@ Music Project 2024_12_27__attempt_2 Notes
 - Finished gathering the country music data
  - metadata collection didn't work (those fields didn't get captured in the metadata) but shouldn't need that for what we're doing
 
-- Now run the model on affinity, differentiating yours from country
+- Ran a model on affinity, differentiating mine from country
+ - results were pretty good. see the notebook (Analysis\2025_01_08__local_vs_country.ipynb) for more details
+ - might have something here
 
 ---------------------------------
 2025-01-07
